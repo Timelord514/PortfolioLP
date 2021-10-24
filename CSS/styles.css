@@ -30,6 +30,7 @@ p {
   text-align: center;
   margin:auto;
   box-sizing: content-box;
+  border-image: auto;
 }
 
 .box2 {
