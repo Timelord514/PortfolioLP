@@ -51,3 +51,9 @@ p {
   text-emphasis-style: Bold;
 }
 
+.rounded {
+  border-radius: 100px;
+  border-width: 20px;
+  margin: 300px;
+  border: 15px solid black;
+}
