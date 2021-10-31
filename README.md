@@ -19,6 +19,7 @@ _This website is a showcase of the lessons learned while at Epicodus. We hav lea
 
 *_An active internet connection._
 *_A working web browser._
+*_(https://github.com/Timelord514/PortfolioLP.git)_
 
 ## Known Bugs
 
