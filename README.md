@@ -13,7 +13,7 @@
 ## Description
 _This website is a showcase of the lessons learned while at Epicodus. We hav learned many things so far, and are ready to keep learning. Follow the links on my site to see the other projects we have worked on so far._
 
-##Setup/Requirements
+## Setup/Requirements
 *_An active internet connection._
 *_A working web browser._
 
@@ -21,6 +21,6 @@ _This website is a showcase of the lessons learned while at Epicodus. We hav lea
 _Scaling on images when window is reduced in size._
 
 ## License
-MIT https://github.com/aws/mit-0
+[MIT](https://github.com/aws/mit-0)
 
 Copyright (c) 2021 Bryan Tapfer
