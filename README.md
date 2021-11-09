@@ -20,6 +20,9 @@ _This website is a showcase of the lessons learned while at Epicodus. We hav lea
 *_An active internet connection._
 *_A working web browser._
 *_(https://github.com/Timelord514/PortfolioLP.git)_ Check out the code here.
+Click the green "Code" button, then copy the address.
+Then, in your Git Bash, enter git clone (insert copied code here).
+
 *_(https://timelord514.github.io/)_ Go to the GitHub hosted site.
 
 ## Known Bugs
